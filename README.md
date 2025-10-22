@@ -9,6 +9,7 @@ So here they are!
 - Enemies
 - Crafting
 - Building
+
 That's it.
 Sounds way better than Minecraft, doesn't it?
 Well you're WRONG.
